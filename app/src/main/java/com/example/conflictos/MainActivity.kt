@@ -67,7 +67,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
                 contentAlignment = Alignment.Center
             ) {
                 Text(
-                    text = "conflictos_001_frank",
+                    text = "Lab04_frank",
                     fontSize = 36.sp, // Tamaño grande
                     fontWeight = FontWeight.Bold, // Negrita
                     color = Color.Black // Color oscuro
